@@ -1,0 +1,28 @@
+.label{
+    float: left;
+    width: 25%;
+}
+
+.display{
+    font-size: 18px;
+    margin-left: 25px;
+    font-weight: bold;
+}
+
+.content{
+    height: 70px;
+}
+
+.displayValue{
+    float: left;
+    width: 15%;
+}
+
+.range{
+    width: 20%;
+    cursor: pointer;
+}
+
+.rangeDisplay{
+    padding-left: 1%;
+}
