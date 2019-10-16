@@ -2,7 +2,7 @@
 
 Calculates interest rate and monthly payment depending upon amount and loan duration.
 
-# Live at =>>  https://sshekhar336.github.io/LoanInterestCalculator-react/
+### Live at =>>  https://sshekhar336.github.io/LoanInterestCalculator-react/
 
 ## Features
 
